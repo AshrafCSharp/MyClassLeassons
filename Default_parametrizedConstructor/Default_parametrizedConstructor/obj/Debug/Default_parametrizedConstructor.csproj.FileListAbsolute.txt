@@ -1,0 +1,6 @@
+D:\ProgramData\C#\Default_parametrizedConstructor\Default_parametrizedConstructor\bin\Debug\Default_parametrizedConstructor.exe.config
+D:\ProgramData\C#\Default_parametrizedConstructor\Default_parametrizedConstructor\bin\Debug\Default_parametrizedConstructor.exe
+D:\ProgramData\C#\Default_parametrizedConstructor\Default_parametrizedConstructor\bin\Debug\Default_parametrizedConstructor.pdb
+D:\ProgramData\C#\Default_parametrizedConstructor\Default_parametrizedConstructor\obj\Debug\Default_parametrizedConstructor.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\Default_parametrizedConstructor\Default_parametrizedConstructor\obj\Debug\Default_parametrizedConstructor.exe
+D:\ProgramData\C#\Default_parametrizedConstructor\Default_parametrizedConstructor\obj\Debug\Default_parametrizedConstructor.pdb
