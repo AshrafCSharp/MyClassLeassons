@@ -1,0 +1,6 @@
+D:\ProgramData\C#\WhatIsClass\WhatIsClass\bin\Debug\WhatIsClass.exe.config
+D:\ProgramData\C#\WhatIsClass\WhatIsClass\obj\Debug\WhatIsClass.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\WhatIsClass\WhatIsClass\bin\Debug\WhatIsClass.exe
+D:\ProgramData\C#\WhatIsClass\WhatIsClass\bin\Debug\WhatIsClass.pdb
+D:\ProgramData\C#\WhatIsClass\WhatIsClass\obj\Debug\WhatIsClass.exe
+D:\ProgramData\C#\WhatIsClass\WhatIsClass\obj\Debug\WhatIsClass.pdb
