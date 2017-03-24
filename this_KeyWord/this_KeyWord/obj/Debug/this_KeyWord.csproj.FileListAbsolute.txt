@@ -1,0 +1,6 @@
+D:\ProgramData\C#\this_KeyWord\this_KeyWord\bin\Debug\this_KeyWord.exe.config
+D:\ProgramData\C#\this_KeyWord\this_KeyWord\bin\Debug\this_KeyWord.exe
+D:\ProgramData\C#\this_KeyWord\this_KeyWord\bin\Debug\this_KeyWord.pdb
+D:\ProgramData\C#\this_KeyWord\this_KeyWord\obj\Debug\this_KeyWord.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\this_KeyWord\this_KeyWord\obj\Debug\this_KeyWord.exe
+D:\ProgramData\C#\this_KeyWord\this_KeyWord\obj\Debug\this_KeyWord.pdb
